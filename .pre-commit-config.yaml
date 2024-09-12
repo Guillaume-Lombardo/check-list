@@ -42,3 +42,10 @@ repos:
       - id: detect-secrets
         name: Detect Secrets
         args: ["--baseline", ".secrets.baseline"]
+
+  - repo: https://github.com/terrencepreilly/darglint
+    rev: v1.8.1
+    hooks:
+      - id: darglint
+        name: Check docstring quality with darglint
+        args: ["--verbosity", "2"]
