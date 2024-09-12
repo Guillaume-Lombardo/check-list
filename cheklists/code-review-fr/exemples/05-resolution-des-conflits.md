@@ -1,6 +1,6 @@
-# Code Review Conflict Resolution
+# Résolution des Conflits dans les Revues de Code
 
-* Step 1: The reviewer and author should first attempt to resolve conflicts through discussion in the PR/MR comments.
-* Step 2: If unresolved, the issue should be escalated to the team lead, who will act as a mediator.
-* Step 3: In cases of technical disagreements, the team may consult an expert in the relevant area or refer to the project's architecture documentation.
-* Step 4: Final decisions should be documented in the PR/MR for future reference.
+* Étape 1 : Le relecteur et l'auteur doivent d'abord tenter de résoudre les conflits par discussion dans les commentaires du PR/MR.
+* Étape 2 : Si non résolu, le problème doit être remonté au chef d'équipe, qui agira en tant que médiateur.
+* Étape 3 : En cas de désaccords techniques, l'équipe peut consulter un expert dans le domaine concerné ou se référer à la documentation de l'architecture du projet.
+* Étape 4 : Les décisions finales doivent être documentées dans le PR/MR pour référence future.

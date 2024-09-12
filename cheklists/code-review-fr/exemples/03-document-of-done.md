@@ -1,11 +1,11 @@
-# Definition of Done (DoD)
+# Définition of Done (DoD)
 
-Code is considered "done" when:
+Le code est considéré comme "fait" lorsque :
 
-* All acceptance criteria in the associated issue are met.
-* Code is fully tested with passing unit, integration, and end-to-end tests.
-* **Documentation is updated** if the feature affects the user interface or APIs.
-* No critical bugs or errors are present.
-* The code passes all automated tests in the CI pipeline.
-* The pull/merge request has been reviewed, and all feedback has been addressed.
-* Product owner approval is received if the change impacts business logic.
+* Tous les critères d'acceptation dans le problème associé sont respectés.
+* Le code est entièrement testé avec des tests unitaires, d'intégration et bout en bout réussis.
+* **La documentation est mise à jour** si la fonctionnalité affecte l'interface utilisateur ou les API.
+* Aucun bogue critique ou erreur n'est présent.
+* Le code passe tous les tests automatisés dans la pipeline CI.
+* La demande de tirage/fusion a été examinée, et tous les retours ont été traités.
+* L'approbation du propriétaire du produit est reçue si le changement impacte la logique métier.

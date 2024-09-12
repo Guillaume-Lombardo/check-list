@@ -1,6 +1,6 @@
-# Code Review Turnaround Guidelines
+# Lignes Directrices pour les Délais de code review
 
-- Code reviews should be completed within 24-48 hours of a pull/merge request submission.
-- Urgent or critical PR/MRs should be reviewed within 12 hours.
-- If a reviewer is unable to complete the review within the set time frame, they must notify the team lead to reassign the review.
-- Developers are responsible for following up on their PR/MRs if no feedback is received within the given timeframe.
+- Les revues de code doivent être terminées dans les 24-48 heures suivant la soumission d'une demande de tirage/fusion.
+- Les PR/MR urgents ou critiques doivent être révisés dans les 12 heures.
+- Si un relecteur ne peut pas terminer la revue dans le délai imparti, il doit informer le chef d'équipe pour réassigner la revue.
+- Les développeurs sont responsables de faire un suivi sur leurs PR/MR si aucun retour n'est reçu dans le délai imparti.

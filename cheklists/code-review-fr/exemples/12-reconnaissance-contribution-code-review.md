@@ -1,6 +1,6 @@
-# Recognizing Code Review Contributions
+# Reconnaître les Contributions aux Revues de Code
 
-* Acknowledge team members who frequently participate in reviews during team meetings.
-* Provide small incentives (e.g., team shoutouts or croissants) for consistent code review participation.
-* Create a "Reviewer of the Month" award to recognize valuable feedback.
-* Include code review efforts in performance reviews and promotion criteria. (for our managers)
+- Reconnaître les membres de l'équipe qui participent fréquemment aux revues lors des réunions d'équipe.
+- Fournir de petites incitations (par exemple, des félicitations ou des croissants) pour une participation constante aux revues de code.
+- Créer un prix "Relecteur du Mois" pour reconnaître les retours précieux.
+- Inclure les efforts de code review dans les évaluations de performance et les critères de promotion. (pour nos managers)

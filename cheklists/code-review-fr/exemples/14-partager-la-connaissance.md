@@ -1,6 +1,6 @@
-# Involving Team Members in Code Reviews
+# Impliquer les Membres de l'Équipe dans les Revues de Code
 
-* Rotate reviewers so that each team member reviews different parts of the codebase over time.
-* Pair junior developers with experienced reviewers for mentorship opportunities.
-* Host "Review Debriefs" after major releases where the team discusses lessons learned from the review process.
-* Encourage team members to comment on PR/MRs even if they are not assigned reviewers, fostering broader knowledge sharing.
+* Faire tourner les relecteurs afin que chaque membre de l'équipe examine différentes parties de la base de code au fil du temps.
+* Jumeler les développeurs juniors avec des relecteurs expérimentés pour des opportunités de mentorat.
+* Organiser des "Débriefings de Revue" après les grandes versions où l'équipe discute des leçons tirées du processus de revue.
+* Encourager les membres de l'équipe à commenter les PR/MR même s'ils ne sont pas les relecteurs assignés, favorisant ainsi un partage plus large des connaissances.

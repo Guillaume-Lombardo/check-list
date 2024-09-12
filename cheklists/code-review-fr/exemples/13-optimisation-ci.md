@@ -1,6 +1,6 @@
-# Optimizing CI Automation for Code Reviews
+# Optimisation de l'Automatisation CI pour les Revues de Code
 
-* Ensure that linters, formatters, and static analysis tools are well-configured to minimize false positives.
-* Include only necessary checks in the CI pipeline to avoid overloading developers with irrelevant warnings.
-* Use Jenkins  for automated tests and ensure that tests fail only for legitimate issues.
-* Regularly update the rules for Jenkins (white wish) to reflect the evolving codebase and development standards.
+* S'assurer que les linters, formatteurs et outils d'analyse statique sont bien configurés pour minimiser les faux positifs.
+* N'inclure que les vérifications nécessaires dans la pipeline CI pour éviter de surcharger les développeurs avec des avertissements non pertinents.
+* Utiliser Jenkins pour les tests automatisés et s'assurer que les tests échouent uniquement pour des problèmes légitimes.
+* Mettre régulièrement à jour les règles de Jenkins (liste blanche) pour refléter l'évolution de la base de code et des normes de développement.

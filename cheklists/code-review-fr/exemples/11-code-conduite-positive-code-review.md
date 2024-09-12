@@ -1,7 +1,7 @@
-# Fostering a Positive Code Review Culture
+# Favoriser une Culture Positive de Code Review
 
-* Feedback should be objective and focus on the code, not the individual.
-* Use phrases like "Consider trying…" or "I noticed that…" instead of making demands.
-* Provide positive feedback when the author implements a creative or effective solution.
-* Avoid personal language and focus on the impact of the changes.
-* If disagreements arise, frame them as discussions about the best solution rather than debates.
+- Les retours doivent être objectifs et se concentrer sur le code, pas sur l'individu.
+- Utiliser des phrases comme "Pourquoi ne pas essayer…" ou "J'ai remarqué que…" au lieu de formuler des exigences.
+- Donner des retours positifs lorsque l'auteur implémente une solution créative ou efficace.
+- Éviter le langage personnel et se concentrer sur l'impact des modifications.
+- Si des désaccords surviennent, les aborder comme des discussions sur la meilleure solution plutôt que des débats.
