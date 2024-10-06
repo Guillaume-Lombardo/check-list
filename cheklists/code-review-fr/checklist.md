@@ -9,7 +9,7 @@
 - [ ] Définir un processus de résolution des conflits dans les revues de code. ([exemple](exemples/05-resolution-des-conflits.md))
 - [ ] Avoir un guide de style définitif pour les préférences de style. ([exemple](exemples/06-coding-style.md))
 - [ ] Utiliser des analyses statiques/dynamiques pour réduire les bruits durant les revues (linting, diffing, etc.). ([exemple](exemples/07-analyse-code-review.md))
-- [ ] Définir des attentes claires pour les délais de code review. ([exemple](exemples/08-guide-de-delai.md))
+- [ ] Définir des attentes claires pour les délais de code review. ([exemple](exemples/08-guide-delais-review.md))
 - [ ] Mettre en avant les grandes versions ou les zones de code importantes afin que cela devienne une priorité dans les revues. ([exemple](exemples/09-priorite-code-review-majeure.md))
 - [ ] Créer un environnement ouvert et encourageant pour le partage de code et d'apprentissage. ([exemple](exemples/10-code-conduite-collaboration-code-review.md))
 - [ ] Encourager un processus de revue sain où personne ne se sent jugé. ([exemple](exemples/11-code-conduite-positive-code-review.md))
